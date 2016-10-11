@@ -1,0 +1,9 @@
+.embed {
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+
+.embed-item {
+  display: block;
+}
